@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Thien31-UIT/Thien31-UIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi :grinning:
+
+I'm Thien
+
+:mortar_board: Second-year student at University of Information Technology, Viet Nam (major: Computer Science).
+
