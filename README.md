@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 I'm Thien
 
-:mortar_board: Second-year student at University of Information Technology, Viet Nam (major: Computer Science).
+:mortar_board: Third-year student at University of Information Technology, Viet Nam (major: Computer Science).
 
 Loading...
