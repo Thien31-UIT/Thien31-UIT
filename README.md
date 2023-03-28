@@ -18,4 +18,7 @@ I'm Thien
 
 :mortar_board: Third-year student at University of Information Technology, Viet Nam (major: Computer Science).
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=npq-thien)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Loading...
