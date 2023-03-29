@@ -21,9 +21,6 @@ I'm Thien
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=npq-thien&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://github-readme-stats-sigma-five.vercel.app/api
-
-
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=npq-thien&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
