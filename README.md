@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 
 I'm Thien
 
-:mortar_board: Graduated student at University of Information Technology, Viet Nam (major: Computer Science).
+:mortar_board: Graduated student at University of Information Technology, Vietnam (major: Computer Science).
+
+:briefcase: Intern at DEK Technologies, Vietnam.
+
+:hourglass_flowing_sand: Loading...
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=npq-thien&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=npq-thien&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-Intern at DEK Technologies, Vietnam
-
-Loading...
