@@ -18,7 +18,7 @@ I'm Thien
 
 :mortar_board: Graduated student at University of Information Technology, Vietnam (major: Computer Science).
 
-:briefcase: Intern at DEK Technologies, Vietnam.
+:briefcase: Former intern at DEK Technologies, Vietnam.
 
 :hourglass_flowing_sand: Loading...
 
